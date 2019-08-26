@@ -1,0 +1,33 @@
+{
+  "name": "react-native-simple-alert",
+  "title": "React Native Simple Alert",
+  "version": "1.0.0",
+  "description": "Simple native module displaying alert dialog with customized message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saibros/react-native-simple-alert.git",
+    "baseUrl": "https://github.com/Saibros/react-native-simple-alert"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Radek Cymborski",
+    "email": "rc@saibros.pl"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.59.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
